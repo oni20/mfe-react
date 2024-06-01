@@ -1,0 +1,7 @@
+# Dependency directories
+foundation-ui/node_modules/
+todo-app/node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
